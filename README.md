@@ -1,3 +1,3 @@
-# url-shortener
+# url-shortener / ShortLink
 
-Example URL-Shortener Using Expressjs and mongoD
+Example URL-Shortener Using Expressjs and mongoDB
