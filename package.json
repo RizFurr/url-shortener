@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zennn08/url-shortener.git"
+    "url": "git+https://github.com/rizfurr/url-shortener.git"
   },
   "keywords": [
     "url-shortener",
     "short-url"
   ],
-  "author": "aqulzz",
+  "author": "RizFurr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zennn08/url-shortener/issues"
+    "url": "https://github.com/rizfurr/url-shortener/issues"
   },
-  "homepage": "https://github.com/zennn08/url-shortener#readme",
+  "homepage": "https://github.com/rizfurr/url-shortener#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
